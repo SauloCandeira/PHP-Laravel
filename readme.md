@@ -16,7 +16,7 @@ Estudos utilizando o PHP + LARAVEL
 ### LARAVEL
 
 ```
-1º - 
+1º - composer create-project --prefer-dist laravel/laravel blog "5.4.*"
 2º - 
 3º - 
 ```
