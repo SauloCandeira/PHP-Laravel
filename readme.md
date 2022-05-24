@@ -21,7 +21,7 @@ B[VScode]
 
 B --> C{App}
 C --> N[Resources]
-C --> O[views]
+N --> O[views]
 C --> K[Routes]
 C --> L[Http]
 L --> M[Controllers]
