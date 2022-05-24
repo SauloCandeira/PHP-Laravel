@@ -13,7 +13,10 @@ class Controller extends BaseController
 
     public function homepage()
     {
-        return view('welcome');
+        $variavel = 'Homepage do sistema de gestão para frupos de investimento';
+        return view('welcome', [
+            'title' => $variavel
+        ]);
     }
     public function cadastrar()
     {
