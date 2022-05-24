@@ -5,14 +5,6 @@ Estudos utilizando o PHP + LARAVEL
 - Laravel
 
 
-### PHP
-
-```
-1º - 
-2º - 
-3º -
-```
-
 ### LARAVEL
 
 ```
