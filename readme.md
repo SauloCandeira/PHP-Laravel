@@ -8,16 +8,16 @@ Estudos utilizando o PHP + LARAVEL
 ### PHP
 
 ```
-1º - Iniciar docker: docker-compose up
-2º - Url: http://app.localhost/
+1º - 
+2º - 
 3º -
 ```
 
 ### LARAVEL
 
 ```
-1º - Build:  docker-compose up -d --build
-2º - Create laravel project: docker-compose run composer create-project --prefer-dist laravel/laravel 
+1º - 
+2º - 
 3º - 
 ```
 
