@@ -21,7 +21,8 @@ B[VScode]
 
 B --> C{App}
 C --> K[Routes]
-C --> L[Controller]
+C --> L[Http]
+L --> M[Controllers]
 ```
 
 
