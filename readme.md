@@ -26,7 +26,7 @@ Estudos utilizando o PHP + LARAVEL
 
 ```mermaid
 flowchart LR
-B[Docker]
+B[VScode]
 
 B --> C{App}
 C --> K[PHP]
