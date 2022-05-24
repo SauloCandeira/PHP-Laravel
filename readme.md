@@ -41,6 +41,13 @@ L --> M[Controllers]
     <p><b><code>Laravel 5.4.</code></b></p>
     <p><i>URL: https://laravel.com/docs/5.4</p>
   </li>
- 
+  
+  <li>
+    <p><b><code>Laravel 5 - Repositories to abstract the database layer</code></b></p>
+    <p><i>URL: https://github.com/andersao/l5-repository</p>
+  </li>
+  
+  
+  
 </ul>
 
