@@ -43,5 +43,12 @@ C --> L[Laravel]
     <p><i>URL: https://github.com/marcossaore/ambiente-dev-docker](https://youtu.be/0Fol4p26Xv0 </i></p>
   </li>
   
+  <li>
+    <p><b><code>Laravel - Criando um sistema para gestão de grupos de investimento.</code></b></p>
+    <p><i>URL: https://laravel.com/docs/5.4</p>
+  </li>
+ 
 </ul>
   
+  
+  https://laravel.com/docs/5.4
