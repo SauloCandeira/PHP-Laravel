@@ -19,7 +19,7 @@ Estudos utilizando o PHP + LARAVEL
 flowchart LR
 B[VScode]
 
-B --> C{App}
+B --> C{Project}
 C --> N[Resources]
 N --> O[views]
 C --> K[Routes]
