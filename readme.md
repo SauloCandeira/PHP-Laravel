@@ -49,6 +49,4 @@ C --> L[Laravel]
   </li>
  
 </ul>
-  
-  
-  https://laravel.com/docs/5.4
+
