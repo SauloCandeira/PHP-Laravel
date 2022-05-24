@@ -10,7 +10,6 @@ Estudos utilizando o PHP + LARAVEL
 ```
 1º - composer create-project --prefer-dist laravel/laravel blog "5.4.*"
 2º - php artisan serve
-3º - 
 ```
 
 
@@ -21,8 +20,8 @@ flowchart LR
 B[VScode]
 
 B --> C{App}
-C --> K[PHP]
-C --> L[Laravel]
+C --> K[Routes]
+C --> L[Controller]
 ```
 
 
