@@ -26,6 +26,8 @@ C --> R[App]
 R --> L[Http]
 L --> M[Controllers]
 
+R --> S[Entities]
+
 C --> P[Database]
 P --> Q[Migrations]
 
