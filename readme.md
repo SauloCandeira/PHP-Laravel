@@ -21,6 +21,8 @@ flowchart LR
 B[VScode]
 
 B --> C{Project}
+C --> P[Database]
+
 C --> N[Resources]
 N --> O[views]
 C --> K[Routes]
