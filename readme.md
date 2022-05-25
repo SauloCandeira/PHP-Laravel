@@ -23,14 +23,16 @@ B[VScode]
 B --> C{Project}
 C --> R[App]
 
+R --> L[Http]
+L --> M[Controllers]
+
 C --> P[Database]
 P --> Q[Migrations]
 
 C --> N[Resources]
 N --> O[views]
 C --> K[Routes]
-C --> L[Http]
-L --> M[Controllers]
+R --> L[Http]
 ```
 
 
