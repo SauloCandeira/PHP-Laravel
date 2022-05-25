@@ -21,6 +21,7 @@ flowchart LR
 B[VScode]
 
 B --> C{Project}
+C --> R[App]
 
 C --> P[Database]
 P --> Q[Migrations]
