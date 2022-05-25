@@ -32,7 +32,6 @@ P --> Q[Migrations]
 C --> N[Resources]
 N --> O[views]
 C --> K[Routes]
-R --> L[Http]
 ```
 
 
