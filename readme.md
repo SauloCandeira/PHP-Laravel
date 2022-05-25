@@ -11,6 +11,7 @@ Estudos utilizando o PHP + LARAVEL
 1º - composer create-project --prefer-dist laravel/laravel blog "5.4.*"
 2º - php artisan serve
 3º - composer require prettus/l5-repository
+4º - composer require laravelcollective/html
 ```
 
 
